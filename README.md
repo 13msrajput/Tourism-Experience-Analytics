@@ -192,7 +192,7 @@ pip install -r requirements.txt
 Extract the Tourism Dataset zip into a `Tourism Dataset/` folder at the project root, then run the notebook end-to-end to generate all model artifacts:
 
 ```bash
-jupyter notebook tourism_experience.ipynb
+jupyter notebook tourism_experience_analytics.ipynb
 ```
 
 Once the `models/` folder is populated, launch the app:
